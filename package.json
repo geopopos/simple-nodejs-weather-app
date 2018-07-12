@@ -1,0 +1,27 @@
+{
+  "name": "simple-nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geopopos/simple-nodejs-weather-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "weather",
+    "app"
+  ],
+  "author": "Georgios Roros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geopopos/simple-nodejs-weather-app/issues"
+  },
+  "homepage": "https://github.com/geopopos/simple-nodejs-weather-app#readme",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  }
+}
